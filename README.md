@@ -37,14 +37,6 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ElderArtemis&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElderArtemis&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Contacto
 
 **Email** — github.com/ElderArtemis
