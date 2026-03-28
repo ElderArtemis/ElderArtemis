@@ -39,7 +39,6 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ### 📫 Contacto
 
-**Email** — github.com/ElderArtemis
 **LinkedIn** — [linkedin.com/in/myspm](https://www.linkedin.com/in/myspm)
 
 <!---
