@@ -1,4 +1,4 @@
-# Sergio P.
+
 
 **SysAdmin | DevSecOps | Building security tools**
 
@@ -37,9 +37,6 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ---
 
-### 📫 Contacto
-
-**LinkedIn** — [linkedin.com/in/myspm](https://www.linkedin.com/in/myspm)
 
 <!---
 ElderArtemis/ElderArtemis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
